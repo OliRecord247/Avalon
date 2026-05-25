@@ -3,7 +3,10 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="Avalon.Desktop/App.axaml" value="Avalon.Desktop/Avalon.Desktop.csproj" />
         <entry key="Avalon.Desktop/MainWindow.axaml" value="Avalon.Desktop/Avalon.Desktop.csproj" />
+        <entry key="Avalon.MVVM/App.axaml" value="Avalon.MVVM/Avalon.MVVM.csproj" />
+        <entry key="Avalon.MVVM/Views/MainWindow.axaml" value="Avalon.MVVM/Avalon.MVVM.csproj" />
       </map>
     </option>
   </component>

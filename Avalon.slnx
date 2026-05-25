@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Avalon.Desktop/Avalon.Desktop.csproj" />
+  <Project Path="Avalon.MVVM/Avalon.MVVM.csproj" />
 </Solution>
